@@ -1,4 +1,5 @@
 # Airline-Performance-Analysis-using-Power-BI
+This repository contains comprehensive data analysis projects focusing on business insights and performance evaluation using Power BI.
 
 # Objective
 Streamline and analyze airline operations using Power BI to improve decision-making and operational efficiency.
@@ -33,14 +34,6 @@ Power BI file with a complete report and dashboard.
 Microsoft Excel: Data cleaning, segmentation, and analysis.
 
 Power BI: Data transformation, modeling, and visualization.
-
-Getting Started
-
-Clone the repository.
-
-Access the Excel files for the KPMG project and the Power BI file for the airline analysis.
-
-Review the provided PDFs for detailed project guidelines and tasks.
 
 # Contribution
 
